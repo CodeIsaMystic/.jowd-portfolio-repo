@@ -1,15 +1,22 @@
-/**********************
-        colors
-**********************/
-$documentBackground: #fff;
-$mainLightBlue: #B6B2ED;
-$mainBlue: #09053C;
-$mainDarkBlue: #03011C;
-$mainOrange: #F9930E;
+/***************************
+        colors New 
+***************************/
+$backgroundColor: #fff;
+$bgColorSecondary: #DCCBD3;
 
 
-/*
-$textColor: #FFCD8B;
-$bgColor: #B6B2ED;
-$accentLight: #8F89E1;
-*/
+$accentColor: #D8BB6B;
+$accentLightColor: #D3B65C;
+
+
+$bgColorSecondary: #F1E1E1;
+
+$headlineColor: #131C1D;
+$textColor: #766470;
+$linkColor: #88707D;
+$whiteDefaultColor: #ffffff;
+
+
+
+$selectionDarkColor: rgba(0, 0, 0, 0.6);
+$selectionColor: rgba(255, 255, 158, .8);
